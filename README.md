@@ -32,5 +32,5 @@ A curated list of awesome digital marketing video, software and resources.
 
 [Insights into Facebook Ads](https://blog.bufferapp.com/facebook-advertising-tips)
 
-[The Importance of Linking AdWords and Google Analytics Accounts - Google Best Practices](https://www.youtube.com/watch?v=O4e0qJL5t1w&t=2s&index=1&list=PL9piTIvKJnJNHcmzzcIMKKdkRCkR0XxtZ)
+:video_camera:[The Importance of Linking AdWords and Google Analytics Accounts - Google Best Practices](https://www.youtube.com/watch?v=O4e0qJL5t1w&t=2s&index=1&list=PL9piTIvKJnJNHcmzzcIMKKdkRCkR0XxtZ)
 
