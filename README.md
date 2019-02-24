@@ -1,4 +1,4 @@
-# Awesome-Digital-Marketing
+# Awesome Digital Marketing
 A curated list of awesome digital marketing video, software and resources.
 
 
