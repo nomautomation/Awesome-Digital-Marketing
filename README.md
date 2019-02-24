@@ -17,7 +17,7 @@ A curated list of awesome digital marketing video, software and resources.
 
 [A Beginner's Guide to Finding New Customers with Google Display Network Targeting](https://www.wordstream.com/blog/ws/2015/02/10/google-display-network-targeting)
 
-[list of case studies that highlight the effective use of multichannel campaigns](https://www.b2bmarketing.net/en-gb/b2b-marketing-awards-2017-case-studies)
+[List of case studies that highlight the effective use of multichannel campaigns](https://www.b2bmarketing.net/en-gb/b2b-marketing-awards-2017-case-studies)
 
 [Omnichannel vs Multichannel: Are they so different?](https://multichannelmerchant.com/blog/omnichannel-vs-multichannel-different/)
 
