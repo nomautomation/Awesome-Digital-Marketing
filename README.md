@@ -2,7 +2,7 @@
 A curated list of awesome digital marketing video, software and resources.
 
 
-## Understanding the digital marketing channel mix
+## Concepts of the digital marketing channel mix
 [Google’s 200 Ranking Factors: The Complete List (2019)](https://backlinko.com/google-ranking-factors)
 
 [What's the Difference Between SEO and SEM? ](https://blog.hubspot.com/insiders/seo-sem-faqs)
@@ -22,7 +22,7 @@ A curated list of awesome digital marketing video, software and resources.
 [Omnichannel vs Multichannel: Are they so different?](https://multichannelmerchant.com/blog/omnichannel-vs-multichannel-different/)
 
 
-## Implementing integrated digital marketing
+## Integrated digital marketing
 
 [The Absolute Beginner's Guide to Google Analytics](https://moz.com/blog/absolute-beginners-guide-to-google-analytics)
 
