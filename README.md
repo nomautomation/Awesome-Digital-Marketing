@@ -7,7 +7,7 @@ A curated list of awesome digital marketing video, software and resources.
 
 [What's the Difference Between SEO and SEM? ](https://blog.hubspot.com/insiders/seo-sem-faqs)
 
-[how search engines rank pages](https://moz.com/beginners-guide-to-seo/how-search-engines-operate)
+[How search engines rank pages](https://moz.com/beginners-guide-to-seo/how-search-engines-operate)
 
 [Beginner’s Guide to Programmatic Display Advertising – Everything You Need to Know](https://www.cardinaldigitalmarketing.com/blog/programmatic-display-advertising/)
 
