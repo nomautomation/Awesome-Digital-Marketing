@@ -35,6 +35,8 @@ A curated list of awesome digital marketing video, software and resources.
 
 :video_camera:[The Importance of Linking AdWords and Google Analytics Accounts - Google Best Practices](https://www.youtube.com/watch?v=O4e0qJL5t1w&t=2s&index=1&list=PL9piTIvKJnJNHcmzzcIMKKdkRCkR0XxtZ)
 
+[35 Amazing Web Analytics Tools that Rival Google Analytics](https://dynomapper.com/blog/21-sitemaps-and-seo/436-35-amazing-web-analytics-tools-that-rival-google-analytics)
+
 ## Understanding predictive analytics and predictive marketing
 
 ## Implementing predictive marketing across channels
