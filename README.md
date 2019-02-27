@@ -51,7 +51,7 @@ A curated list of awesome digital marketing video, software and resources.
 
 [Here’s to the Skeptics: Addressing Predictive Modeling Misconceptions](https://www.rapidinsight.com/heres-skeptics-addressing-predictive-modeling-misconceptions/)
 
-[http://birchmangroup.com/en/debunking-myths-about-predictive-analytics/](http://birchmangroup.com/en/debunking-myths-about-predictive-analytics/)
+[Debunking Myths About Predictive Analytics](http://birchmangroup.com/en/debunking-myths-about-predictive-analytics/)
 
 ## Implementing predictive marketing across channels
 
