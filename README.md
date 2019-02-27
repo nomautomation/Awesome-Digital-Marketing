@@ -53,6 +53,8 @@ A curated list of awesome digital marketing video, software and resources.
 
 [Debunking Myths About Predictive Analytics](http://birchmangroup.com/en/debunking-myths-about-predictive-analytics/)
 
+[4 Things to Know Before Building Data Science Into Your Organization](https://www.business2community.com/big-data/4-things-know-building-data-science-organization-01412999#W0CqcP2wqSeUwQUX.97)
+
 ## Implementing predictive marketing across channels
 
 ## Optimizing return on investment (ROI)
