@@ -45,6 +45,10 @@ A curated list of awesome digital marketing video, software and resources.
 
 [How Netflix Uses Analytics To Select Movies, Create Content, and Make Multimillion Dollar Decisions](https://neilpatel.com/blog/how-netflix-uses-analytics/)
 
+[How to Use Predictive Purchase Behavior Modeling to Understand Consumers](https://blog.hubspot.com/agency/predictive-analytics-buy)
+
+[Traditional Lead Scoring vs Predictive Lead Scoring](https://www.impactbnd.com/blog/traditional-lead-scoring-vs-predictive-lead-scoring)
+
 ## Implementing predictive marketing across channels
 
 ## Optimizing return on investment (ROI)
