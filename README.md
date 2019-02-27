@@ -41,6 +41,8 @@ A curated list of awesome digital marketing video, software and resources.
 
 ## Understanding predictive analytics and predictive marketing
 
+[Predictive analytics (wikipeda)](https://en.wikipedia.org/wiki/Predictive_analytics)
+
 [Lessons from How Amazon Uses Big Data](https://www.smartdatacollective.com/lessons-how-amazon-uses-big-data/)
 
 [How Netflix Uses Analytics To Select Movies, Create Content, and Make Multimillion Dollar Decisions](https://neilpatel.com/blog/how-netflix-uses-analytics/)
