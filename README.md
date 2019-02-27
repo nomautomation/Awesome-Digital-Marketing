@@ -49,6 +49,10 @@ A curated list of awesome digital marketing video, software and resources.
 
 [Traditional Lead Scoring vs Predictive Lead Scoring](https://www.impactbnd.com/blog/traditional-lead-scoring-vs-predictive-lead-scoring)
 
+[Here’s to the Skeptics: Addressing Predictive Modeling Misconceptions](https://www.rapidinsight.com/heres-skeptics-addressing-predictive-modeling-misconceptions/)
+
+[http://birchmangroup.com/en/debunking-myths-about-predictive-analytics/](http://birchmangroup.com/en/debunking-myths-about-predictive-analytics/)
+
 ## Implementing predictive marketing across channels
 
 ## Optimizing return on investment (ROI)
