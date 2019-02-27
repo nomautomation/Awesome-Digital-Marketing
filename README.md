@@ -25,6 +25,8 @@ A curated list of awesome digital marketing video, software and resources.
 
 ## Integrated digital marketing
 
+[What is Integrated Marketing?](https://www.smartinsights.com/traffic-building-strategy/integrated-marketing-communications/what-is-integrated-marketing/)
+
 [The Absolute Beginner's Guide to Google Analytics](https://moz.com/blog/absolute-beginners-guide-to-google-analytics)
 
 [How Google Ads works](https://moz.com/blog/absolute-beginners-guide-to-google-analytics)
