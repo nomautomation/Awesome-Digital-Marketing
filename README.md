@@ -44,3 +44,7 @@ A curated list of awesome digital marketing video, software and resources.
 ## Optimizing return on investment (ROI)
 
 ## The future of integrated digital marketing: Video, Mobile and AI
+
+## Professor Sinan Aral
+
+[MIT webpage with videos and articles](http://ide.mit.edu/about-us/people/sinan-aral)
