@@ -39,6 +39,10 @@ A curated list of awesome digital marketing video, software and resources.
 
 [35 Amazing Web Analytics Tools that Rival Google Analytics](https://dynomapper.com/blog/21-sitemaps-and-seo/436-35-amazing-web-analytics-tools-that-rival-google-analytics)
 
+[Marketing Technology Landscape Supergraphic (2018): Martech 5000 (actually 6,829)](https://chiefmartec.com/2018/04/marketing-technology-landscape-supergraphic-2018/)
+
+[SiriusXM to Buy Pandora for $3.5 Billion in Bid to Expand Reach](https://www.nytimes.com/2018/09/24/business/dealbook/siriusxm-pandora.html)
+
 ## Understanding predictive analytics and predictive marketing
 
 [Predictive analytics (wikipeda)](https://en.wikipedia.org/wiki/Predictive_analytics)
