@@ -67,6 +67,8 @@ A curated list of awesome digital marketing video, software and resources.
 
 [Recommend the Best Channels for Contact - Predictive Customer Analytics — Part II (with example)](https://towardsdatascience.com/predictive-customer-analytics-part-ii-the-customer-acquisition-process-sample-use-case-59a52bc8796)
 
+[Nine years on, ‘Big Data’ is finally hitting the mainstream](https://www.information-age.com/nine-years-on-big-data-123472277/)
+
 ## Implementing predictive marketing across channels
 
 ## Optimizing return on investment (ROI)
