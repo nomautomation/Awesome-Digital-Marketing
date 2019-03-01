@@ -61,6 +61,9 @@ A curated list of awesome digital marketing video, software and resources.
 
 [4 Things to Know Before Building Data Science Into Your Organization](https://www.business2community.com/big-data/4-things-know-building-data-science-organization-01412999#W0CqcP2wqSeUwQUX.97)
 
+[How Predictive Segmentation Converts Your Visitors into Customers]()
+https://medium.com/intempt/how-predictive-segmentation-converts-your-visitors-into-customers-6d0aec1fd341
+
 ## Implementing predictive marketing across channels
 
 ## Optimizing return on investment (ROI)
