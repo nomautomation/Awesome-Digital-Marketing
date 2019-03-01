@@ -63,7 +63,7 @@ A curated list of awesome digital marketing video, software and resources.
 
 [How Predictive Segmentation Converts Your Visitors into Customers](https://medium.com/intempt/how-predictive-segmentation-converts-your-visitors-into-customers-6d0aec1fd341)
 
-[Customer Life Cycle](https://towardsdatascience.com/predictive-customer-analytics-4064d881b649)
+[Customer Life Cycle - Predictive Customer Analytics — Part I](https://towardsdatascience.com/predictive-customer-analytics-4064d881b649)
 
 ## Implementing predictive marketing across channels
 
