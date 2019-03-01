@@ -65,6 +65,8 @@ A curated list of awesome digital marketing video, software and resources.
 
 [Customer Life Cycle - Predictive Customer Analytics — Part I](https://towardsdatascience.com/predictive-customer-analytics-4064d881b649)
 
+[Recommend the Best Channels for Contact - Predictive Customer Analytics — Part II](https://towardsdatascience.com/predictive-customer-analytics-part-ii-the-customer-acquisition-process-sample-use-case-59a52bc8796)
+
 ## Implementing predictive marketing across channels
 
 ## Optimizing return on investment (ROI)
