@@ -71,6 +71,14 @@ A curated list of awesome digital marketing video, software and resources.
 
 ## Implementing predictive marketing across channels
 
+[data preparation](https://searchbusinessanalytics.techtarget.com/definition/data-preparation)
+
+[Keep It Clean: Tips for Ensuring Data Hygiene](https://blog.insideview.com/2015/03/05/keep-it-clean-tips-for-ensuring-data-hygiene/)
+
+[Propensity score analysis: A tool for MR](https://www.quirks.com/articles/propensity-score-analysis-a-tool-for-mr)
+
+[Instrumental-Variable Regression in R](https://www.rdocumentation.org/packages/AER/versions/1.2-5/topics/ivreg)
+
 ## Optimizing return on investment (ROI)
 
 ## The future of integrated digital marketing: Video, Mobile and AI
