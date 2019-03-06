@@ -79,6 +79,14 @@ A curated list of awesome digital marketing video, software and resources.
 
 [Instrumental-Variable Regression in R](https://www.rdocumentation.org/packages/AER/versions/1.2-5/topics/ivreg)
 
+[Descriptive Statistics](https://www.socialresearchmethods.net/kb/statdesc.php)
+
+[Graphing Distributions](http://onlinestatbook.com/2/graphing_distributions/graphing_distributions.html)
+
+[Descriptive Statistics and Graphic Displays](https://www.oreilly.com/library/view/statistics-in-a/9781449361129/ch04.html)
+
+
+
 ## Optimizing return on investment (ROI)
 
 ## The future of integrated digital marketing: Video, Mobile and AI
