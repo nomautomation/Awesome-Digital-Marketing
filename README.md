@@ -89,6 +89,17 @@ A curated list of awesome digital marketing video, software and resources.
 
 ## Optimizing return on investment (ROI)
 
+[20 Examples Of ROI And Results With Big Data]()https://content.pivotal.io/blog/20-examples-of-roi-and-results-with-big-data)
+
+[13 Ecommerce Conversion Optimization Examples (2018 Case Studies)](https://blog.optimizely.com/2015/06/04/ecommerce-conversion-optimization-case-studies/)
+
+[How to Retarget on Facebook](https://blog.hubspot.com/marketing/retargeting-campaigns-beginner-guide)
+
+[Bidding & Optimization Strategies To Take Your Search Marketing Results To The Next Level](https://searchengineland.com/bidding-optimization-strategies-take-search-marketing-results-next-level-220171)
+
+
+
+
 ## The future of integrated digital marketing: Video, Mobile and AI
 
 ## Professor Sinan Aral
