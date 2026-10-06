@@ -29,6 +29,8 @@ A curated list of awesome digital marketing video, software and resources.
 
 [The Absolute Beginner's Guide to Google Analytics](https://moz.com/blog/absolute-beginners-guide-to-google-analytics)
 
+[Reading reach, views, likes and engagement rate (German)](https://followerbestellen.de/guides/reichweite-aufrufe-likes-engagement-rate) - A beginner guide to metric definitions, denominator examples, matched-period comparisons and limits of attributing sales to social counts.
+
 [How Google Ads works](https://moz.com/blog/absolute-beginners-guide-to-google-analytics)
 
 [These 10 Analytics Reports Will Improve Your AdWords Results](https://searchengineland.com/10-analytics-reports-will-improve-adwords-results-198918)
